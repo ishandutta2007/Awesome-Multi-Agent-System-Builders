@@ -91,7 +91,7 @@ The following hosted platforms provide fully managed multi-agent building, execu
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the leading open-source multi-agent frameworks, visual canvases, and portable orchestrators. Repositories are sorted in **descending order by GitHub star count**.
+Explore the leading open-source multi-agent frameworks, visual canvases, and portable orchestrators. Repositories are sorted in **descending order by GitHub Stars_Count**.
 
 ### 1. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)
 - 🌟 **The flagship vision for autonomous multi-agent systems and agent builders**
@@ -204,7 +204,7 @@ Contributions are warmly encouraged! To submit a new multi-agent builder or plat
 2. 🌿 **Create a Feature Branch**: `git checkout -b feature/add-new-builder`.
 3. 📝 **Add Your Entry**:
    - For SaaS: Add to the table with exact company valuation, starting price, and free tier limits.
-   - For Open Source: Add with description, stargazers badge (`style=social&color=white`), and target use case. Sort by star count!
+   - For Open Source: Add with description, stargazers badge (`style=social&color=white`), and target use case. Sort by Stars_Count!
 4. 🚀 **Submit a Pull Request** with a brief summary explaining the product's orchestration capabilities.
 
 Please verify all links before submitting! Check out the central [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) hub for more curated lists.
